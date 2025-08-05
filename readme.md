@@ -9,7 +9,7 @@
 
 ## 🔥 Live Preview
 
-**[→ Click here to view live (if hosted)](#https://nike-theme-web.vercel.app/)**  
+**[→ [Click here to view live (if hosted)](https://nike-theme-web.vercel.app/)]**  
 *(Replace `#` with your GitHub Pages / Netlify link)*
 
 ---
